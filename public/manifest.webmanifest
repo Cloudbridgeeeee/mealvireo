@@ -1,0 +1,16 @@
+{
+  "name": "MealVireo",
+  "short_name": "MealVireo",
+  "description": "AI purchasing analytics software that predicts ingredient requirements from historical food orders, recipes and bookings.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf6ee",
+  "theme_color": "#fbf6ee",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
