@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for MealVireo.
 - Industry: Food Services, Hospitality, Supply Chain Management
 - Founder: Hammed Ajeigbe (Founder & CEO)
 - Co-founder: Grace Ezeh (Co-founder & CTO)
-- Contact: hammed@mealvireo.top
+- Contact: hammed@mealvireo.site
 - Business model: Kitchen-based subscriptions
 
 ## Stack
